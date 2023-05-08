@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 00B2-83A5
+
+ Directory of C:\Users\avinash.kumar1\Desktop\My Project
+
+08-05-2023  20:13    <DIR>          .
+08-05-2023  20:13    <DIR>          ..
+07-05-2023  20:09                22 index.html
+07-05-2023  20:09                 8 test1.txt
+08-05-2023  20:13                 0 test2.txt
+               3 File(s)             30 bytes
+               2 Dir(s)  131,879,829,504 bytes free
